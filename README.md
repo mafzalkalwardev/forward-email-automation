@@ -32,6 +32,10 @@ The project processes carrier data files and automates email communication tasks
 
 \## Screenshots
 
+## Screenshots
+
+![Application screenshot](docs/screenshots/app.png)
+
 ## Features
 
 \- Bulk email automation
