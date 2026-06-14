@@ -48,7 +48,11 @@ The project processes carrier data files and automates email communication tasks
 
 
 
-\## Features
+\## Screenshots
+
+![forward-email-automation dashboard](docs/screenshots/app.png)
+
+## Features
 
 
 
