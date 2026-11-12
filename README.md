@@ -29,107 +29,81 @@
 
 ## Features
 
-\- Bulk email automation
+- Bulk email automation
+- Carrier contact processing
+- Excel and CSV handling
+- Automated email workflows
+- Dispatch communication support
+- Large dataset processing
+- Email forwarding system
+- Automation utilities
 
-\- Carrier contact processing
+## Tech Stack
 
-\- Excel and CSV handling
+- Python
+- Pandas
+- Jupyter Notebook
+- Excel Processing
+- CSV Processing
+- Email Automation
 
-\- Automated email workflows
-
-\- Dispatch communication support
-
-\- Large dataset processing
-
-\- Email forwarding system
-
-\- Automation utilities
-
-\## Tech Stack
-
-\- Python
-
-\- Pandas
-
-\- Jupyter Notebook
-
-\- Excel Processing
-
-\- CSV Processing
-
-\- Email Automation
-
-\## Project Structure
+## Project Structure
 
 ```text
-
 forward-email-automation/
 
 │
-
-├── Email\_Sender.ipynb
-
-├── carrier\_details.xlsx
-
+├── Email_Sender.ipynb
+├── carrier_details.xlsx
 ├── README.md
-
 └── .gitignore
-
 ```
 
-\## Installation
+## Installation
 
 Install required packages:
 
 ```bash
-
 pip install pandas openpyxl
-
 ```
 
-\## How to Run
+## How to Run
 
 Open Jupyter Notebook:
 
 ```bash
-
 jupyter notebook
-
 ```
 
 Then run:
 
 ```text
-
-Email\_Sender.ipynb
-
+Email_Sender.ipynb
 ```
 
-\## Features Overview
+## Features Overview
 
-\### Carrier Data Processing
+### Carrier Data Processing
 
 Processes large carrier datasets from Excel and CSV files.
 
-\### Email Automation
+### Email Automation
 
 Automates bulk communication workflows.
 
-\### Dispatch Workflow Support
+### Dispatch Workflow Support
 
 Useful for logistics and dispatch operations.
 
-\## Security Note
+## Security Note
 
 Do not upload:
 
-\- private carrier data
+- private carrier data
+- personal emails
+- confidential dispatch records
 
-\- personal emails
-
-\- confidential dispatch records
-
-\## Author
+## Author
 
 Muhammad Afzal Kalwar
 
